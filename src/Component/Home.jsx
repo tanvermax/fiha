@@ -121,7 +121,7 @@ const Home = () => {
       {!gameStarted && (
         <div className="relative z-10 text-center max-w-md mx-4">
           <h1 className="text-5xl md:text-6xl font-bold mb-6">
-            For You <span className="animate-pulse">💖</span>
+            For You <span className="animate-pulse">💖 Cupcake</span>
           </h1>
           
           <p className="text-xl md:text-2xl mb-8">
